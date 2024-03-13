@@ -20,4 +20,5 @@ For questions or support, please open an issue or contact pawankumardwivedi6@gma
 
 Feel free to customize this template with specific details about your HR analytics project and how users can interact with it.
 
-![data_mites](https://github.com/Igruapawan/Power-BI-/assets/98211165/1ec068fd-7a6d-4bfa-9681-71a13097395a)
+![Complete report](https://github.com/Igruapawan/Power-BI-/assets/98211165/215e5927-5211-433d-a284-4c0bfacc0c33)
+

@@ -19,3 +19,4 @@ Support
 For questions or support, please open an issue or contact pawankumardwivedi6@gmail.com.
 
 Feel free to customize this template with specific details about your HR analytics project and how users can interact with it.
+https://github.com/Igruapawan/Power-BI-/blob/main/Complete%20report.png?raw=true
